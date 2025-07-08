@@ -8,7 +8,7 @@ O objetivo é construir um serviço backend escalável, capaz de atender múltip
 
 ## Tecnologias Utilizadas
 
-- Java 17+
+- Java 21
 - Spring Boot 3.x
 - Maven (para build e gerenciamento de dependências)
 - Nginx (configurado como load balancer)
@@ -95,13 +95,15 @@ Este projeto tem como foco demonstrar:
 
     Uso de Docker para facilitar o desenvolvimento e deploy.
 
-Contato
+Contatodd
 
 Se tiver dúvidas ou sugestões, entre em contato:
+```json
+{
+    "Nome": "Carlos Henrique"
 
-    Nome: Carlos Henrique
+    "Email": "carloshenriquedss010@gmail.com"
 
-    Email: carloshenriquedss010@gmail.com
-
-    GitHub: https://github.com/egotting
-
+    "GitHub": "https://github.com/egotting"
+}
+```
